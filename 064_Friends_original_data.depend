@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1662794124 source:c:\users\jakub\documents\programowanie\c++\064_friends_original_data\main.cpp
+	<iostream>
+	"Friends2.h"
+
+1662794304 c:\users\jakub\documents\programowanie\c++\064_friends_original_data\friends2.h
+	<iostream>
+
+1662794225 source:c:\users\jakub\documents\programowanie\c++\064_friends_original_data\friends2.cpp
+	<iostream>
+	"Friends2.h"
+
